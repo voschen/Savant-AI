@@ -20,7 +20,7 @@
 ---
 
 ## Why this project
-This is a one-week, high-intensity project gauntlet designed to make you strong at the 20% of skills that produce 80% of an agent's performance: state management, async IO, streaming, observability, and safety. The design targets local LLMs (Ollama / vLLM / HF pipelines) and prioritizes non-blocking architecture and reproducible tests.
+This is a one-week, high-intensity project gauntlet designed to make me strong at the 20% of skills that produce 80% of an agent's performance: state management, async IO, streaming, observability, and safety. The design targets local LLMs (Ollama / vLLM / HF pipelines) and prioritizes non-blocking architecture and reproducible tests.
 
 ---
 
