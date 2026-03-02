@@ -24,13 +24,6 @@ This is a one-week, high-intensity project gauntlet designed to make you strong 
 
 ---
 
-## How to use this checklist
-- Each line is a trackable objective. Turn checklist lines into GitHub Issues or project cards.
-- Toggle a checkbox from `- [ ]` to `- [x]` when done.
-- Acceptance Criteria beneath each item describe what “done” means.
-
----
-
 ## Roadmap / Objectives
 
 ### Phase 1 — The Engine (Days 1–2)
